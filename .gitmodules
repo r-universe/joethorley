@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "hmstimer"]
+	path = hmstimer
+	url = https://github.com/cran/hmstimer
+	shallow = true
+	registered = true
+[submodule "sims"]
+	path = sims
+	url = https://github.com/cran/sims
+	shallow = true
+	registered = true
